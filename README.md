@@ -13,7 +13,7 @@
 
 ## 🚦소프트웨어
 하드웨어 통제를 위한 코드와 신호등 알고리즘을 구현하였습니다.
-![image](https://github.com/jayinsummer/arduino-source-for-MEIT/assets/112365313/94a091c8-cd84-4c6e-a860-c25ad016e80f)
+![image](https://github.com/jayinsummer/arduino-source-for-MEIT/assets/112365313/9c6e5d90-a024-4fed-b7a2-ccb384c52b06)
 <hr/>
 ![image](https://github.com/jayinsummer/arduino-source-for-MEIT/assets/112365313/4ba1595a-ca0e-4f4e-8708-9f920fb9ad35)
 
